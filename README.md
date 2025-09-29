@@ -32,14 +32,14 @@ Aqui o objetivo é pegar os conceitos aprendidos e ver a "forma Angular" de reso
 
 ! Para estudar por meio desse repositório é **crucial** ter o Git instalado na sua máquina.
 
-* (Têm uma explicação dentro desse repositório sobre a instalação do Git e as noções básicas de GitHub. Você pode acessar aqui): 
+* (Têm uma explicação dentro desse repositório sobre a instalação do Git e as noções básicas de GitHub. Você pode acessar aqui): (em breve)
 
 1.  Clone o repositório:
     
     Abra seu editor de código (como o VS Code), e dentro do terminal, execute o comando:
 
     ```bash
-    git clone [https://github.com/srcgab/desenvolvimento-we.git]
+    git clone https://github.com/srcgab/desenvolvimento-we.git
     ```
 2.  Navegue até a pasta de algum dos projetos (ex: `cd vanilla-js/lista-de-tarefas`).
 3.  Abra o arquivo `index.html` no seu navegador para ver o projeto funcionando.
