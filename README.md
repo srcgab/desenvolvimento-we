@@ -15,8 +15,8 @@ A jornada está dividida em duas etapas:
 Aqui o objetivo é manipular elementos HTML diretamente, ouvir eventos e controlar o estado da aplicação com variáveis simples.
 
 * [Projeto 1: Lista de Tarefas](./vanilla-js/lista-de-tarefas/)
-* [Projeto 2: Contador](./vanilla-js/contador/)
-* [Projeto 3: Formulário com Validação](./vanilla-js/form-validacao/)
+* [Projeto 2: Contador](./vanilla-js/contador/)  (em breve)
+* [Projeto 3: Formulário com Validação](./vanilla-js/form-validacao/)  (em breve)
 * [Projeto 4: Linktree](./vanilla-js/linktree/)
 
 ### Etapa 2: Angular (`/angular`)
