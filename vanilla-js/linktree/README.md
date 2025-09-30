@@ -3,15 +3,15 @@
 Site simples em JS Vanilla para centralizar diferentes links. A ideia é praticar conceitos de JavaScript, como: selecionar elementos, manipular o DOM, ouvir eventos e separar dados, tornando a inserção e exibição de dados dinâmica. 
 
 
-![Exemplo de como a página pode ficar](\imgs\tela-ex-lt2.png)
-![Exemplo de como a página pode ficar](\imgs\tela-ex-lt1.png)
+![Exemplo de como a página pode ficar](.\..\imgs\tela-ex-lt2.png)
+![Exemplo de como a página pode ficar](.\..\imgs\tela-ex-lt1.png)
 
 ## Funcionalidades a serem implementadas
 
--[x] **Gerenciamento de links centralizado:** Todos os links são gerenciados em um único lugar no arquivo JavaScript, sem a necessidade de editar o HTML.
--[x] **Renderização dinâmica de conteúdo:** O JavaScript lê os dados e "desenha" a lista de links na tela automaticamente.
--[] **Efeito de clique para feedback visual:** Uma animação sutil para indicar que um link foi pressionado.
--[] **Implementação de um seletor de tema:** Um botão para alternar entre modo claro e escuro (Light/Dark Mode).
+- [ x ] - **Gerenciamento de links centralizado:** Todos os links são gerenciados em um único lugar no arquivo JavaScript, sem a necessidade de editar o HTML.
+- [ x ] - **Renderização dinâmica de conteúdo:** O JavaScript lê os dados e "desenha" a lista de links na tela automaticamente.
+- [  ] - **Efeito de clique para feedback visual:** Uma animação sutil para indicar que um link foi pressionado.
+- [  ] - **Implementação de um seletor de tema:** Um botão para alternar entre modo claro e escuro (Light/Dark Mode).
 
 ## O Tutorial
 
