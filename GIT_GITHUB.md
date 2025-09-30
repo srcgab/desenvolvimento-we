@@ -31,11 +31,11 @@ git --version
 
 **Passo 3: Configuração Inicial**
 
-O Git precisa saber quem você é para registrar quem fez cada alteração. Execute os seguintes comandos no terminal, substituindo as informações pelas suas:
+O Git precisa saber quem você é para registrar quem fez cada alteração. Execute os seguintes comandos no terminal, substituindo as informações pelas suas (o email deve ser o mesmo email da conta do github):
 
 ```bash
 git config --global user.name "Seu Nome Completo"
-git config --global user.email "seu-email@exemplo.com" //Deve ser o mesmo email da conta do github
+git config --global user.email "seu-email@exemplo.com" 
 ```
 
 Isso é feito apenas uma vez na sua máquina.
