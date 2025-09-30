@@ -2,9 +2,9 @@
 
 ## 1. Qual a diferença entre Git e GitHub?
 
-* **Git é como o "Histórico de Versões" do Microsoft Word ou Google Docs no seu computador.** A cada mudança importante, você pode "salvar um ponto na história" do seu documento. Se você fizer algo errado, pode voltar para uma versão anterior que estava funcionando. O Git é o **software** que faz esse controle de versões diretamente na sua máquina.
+* **Git é como o "Histórico de Versões" do Google Docs no seu PC.** A cada mudança importante, você pode "salvar um ponto na história" do seu documento. Se você fizer algo errado, pode voltar para uma versão anterior que estava funcionando. O Git é o **software** que faz esse controle de versões diretamente na sua máquina.
 
-* **GitHub é como o Google Drive ou o OneDrive para o seu trabalho.** É um **site** na internet onde você pode guardar (hospedar) seu projeto e todas as suas versões salvas pelo Git. Além de ser um backup na nuvem, o GitHub é uma plataforma social que permite que outras pessoas vejam seu código, colaborem com você e acompanhem seu trabalho.
+* **GitHub é como o Google Drive para o seu trabalho.** É um **site** na internet onde você pode guardar (hospedar) seu projeto e todas as suas versões salvas pelo Git. Além de ser um backup na nuvem, o GitHub é uma plataforma social que permite que outras pessoas vejam seu código, colaborem com você e acompanhem seu trabalho.
 
 **Resumindo:**
 * **Git:** A ferramenta para versionar seu código.
