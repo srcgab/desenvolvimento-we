@@ -32,7 +32,7 @@ Aqui o objetivo é pegar os conceitos aprendidos e ver a "forma Angular" de reso
 
 ! Para estudar por meio desse repositório é **crucial** ter o Git instalado na sua máquina.
 
-* (Têm uma explicação dentro desse repositório sobre a instalação do Git e as noções básicas de GitHub. Você pode acessar aqui): (em breve)
+* (Têm uma explicação dentro desse repositório sobre a instalação do Git e as noções básicas de GitHub. Você pode acessar aqui): ./GIT_GITHUB.md
 
 1.  Clone o repositório:
     
