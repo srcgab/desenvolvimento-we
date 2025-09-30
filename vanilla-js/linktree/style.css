@@ -1,0 +1,151 @@
+@media (min-width: 1439px) {
+    h2 {
+        font-size: 3rem;
+    }
+
+    #container {
+        min-width: 1000px;
+    }
+
+    .link-social {
+        min-width: 700px;
+    }
+
+}
+
+@media (max-width: 1440px) {
+    h2 {
+        font-size: 2.5rem;
+    }
+
+    .link-social {
+        min-width: 600px;
+    }
+}
+
+@media (max-width: 1024px) {
+    h2 {
+        font-size: 2rem;
+    }
+
+    .link-social {
+        min-width: 480px;
+    }
+}
+
+@media (max-width: 720px) {
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    .link-social {
+        min-width: 280px;
+    }
+
+    #container {
+        max-width: 600px;
+    }
+}
+
+@media (max-width: 380px) {
+    h2 {
+        font-size: 1rem;
+    }
+    .link-social {
+        min-width: 240px;
+    }
+    #container {
+        min-width: 360px;
+    }
+
+    section {
+        overflow-x: scroll;
+    }
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #f9f9f9;
+    text-shadow: 0 0 1px transparent, 0 3px 2px rgba(0, 0, 0, 0.73);
+}
+
+.bg-img {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 80%;
+}
+
+section {
+    display: grid;
+    place-items: center;
+    position: absolute;
+    inset: 0;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 100px 10px;
+    align-items: center;
+}
+
+section div img {
+    width: 150px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 1px black;
+}
+
+.link-social {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border: 2px solid white;
+    text-decoration: none;
+    gap: 20px;
+    border-radius: 54px;
+    transition-duration: 200ms;
+    padding: 4px;
+    margin-bottom: 15px;
+    background: rgba(6 4 12 / 67%);
+    box-shadow: 0 0 1px transparent, 0 2px 2px rgba(0, 0, 0, 0.73);
+}
+
+.link-social:hover {
+    background: rgba(126, 76, 227, 0.67); 
+}
+
+.link-social > i {
+    color: rgba(126, 76, 227, 0.67);
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-family: "Barlow", sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    font-style: inherit;
+    color: #fff;
+}
